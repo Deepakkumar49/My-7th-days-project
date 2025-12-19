@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    border-style: solid black;
+
+   
+
+}
+.form{
+    border-style:solid black;
+}
+*{
+    padding:0px;
+    margin:0px;
+}
